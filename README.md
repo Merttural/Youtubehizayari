@@ -12,6 +12,7 @@
 - Hız değerini anlık olarak gösterme (örneğin: **1.3x**, **0.75x**).
 
 ---
+![Ekran görüntüsü 2024-12-02 005833](https://github.com/user-attachments/assets/9f6cbfb8-475a-4f05-bc8d-3c10334c53b8)
 
 ## 📂 Dosya Yapısı
 Uzantı aşağıdaki dosyalardan oluşmaktadır:
